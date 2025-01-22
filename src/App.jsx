@@ -21,7 +21,7 @@ const App = () => {
     Swal.fire({
       title: 'Welcome to Sip Happens Café!',
       text: 'Thank you for visiting! Please leave your feedback about our service.',
-      imageUrl: '/public/vite.svg',
+      imageUrl: '/public/cafe-icon.svg',
       imageWidth: 100,
       imageHeight: 100,
       confirmButtonText: 'Got it!',
